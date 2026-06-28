@@ -1,0 +1,11 @@
+{
+  "name": "connote",
+  "description": "Collaboratively edit a Markdown document with AI using Connote Directive Language (CDL).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ranger A. Dangle"
+  },
+  "homepage": "https://github.com/rang-a-dang/connote",
+  "repository": "https://github.com/rang-a-dang/connote",
+  "license": "MIT"
+}

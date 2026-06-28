@@ -1,0 +1,13 @@
+{
+  "name": "rang-a-dang",
+  "owner": {
+    "name": "Ranger A. Dangle"
+  },
+  "plugins": [
+    {
+      "name": "connote",
+      "source": "./",
+      "description": "Collaboratively edit a Markdown document with AI using Connote Directive Language (CDL)."
+    }
+  ]
+}

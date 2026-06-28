@@ -28,6 +28,20 @@ Once you've marked up your document, use the `/connote` skill to have AI make yo
 /connote
 ```
 
+If you have another skill named `connote`, use the fully-qualified `/connote:connote` to disambiguate.
+
+## Install
+
+Connote ships as a Claude Code plugin.
+Add this repo as a plugin marketplace, then install the plugin:
+
+```
+/plugin marketplace add rang-a-dang/connote
+/plugin install connote@rang-a-dang
+```
+
+Connote runs only when you invoke it explicitly; it never edits a document on its own.
+
 ## Connote Directive Language (CDL)
 
 A **directive** is a single editing request written in Connote Directive Language (CDL).
